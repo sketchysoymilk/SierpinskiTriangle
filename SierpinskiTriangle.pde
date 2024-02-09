@@ -1,7 +1,7 @@
 public void setup()
 {
-  size(400, 400);
-  sierpinski(50, 330, 300);
+  size(500, 500);
+  sierpinski(50, 450, 400);
 }
 public void draw()
 {
